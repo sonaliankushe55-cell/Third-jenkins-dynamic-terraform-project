@@ -9,7 +9,7 @@ pipeline {
         stage('Checkout') {
 
             steps {
-                git 'https://github.com/YOUR_USERNAME/terraform-vpc-project.git'
+                git 'https://github.com/sonaliankushe55-cell/Third-jenkins-dynamic-terraform-project.git'
             }
         }
 
